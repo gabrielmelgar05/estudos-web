@@ -15,5 +15,7 @@ tl.to(".box", {
 })
 
 tl.to(".box", {
-    rotate: 200
+    rotate: 200,
+    x: 500,
+    y: 30,
 })
